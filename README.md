@@ -11,12 +11,12 @@ To create an interactive Power BI dashboard to track and analyze online sales da
 ## Power BI Tools:
 - Get Data: Import the Orders and Details tables into Power BI.
 - Power Query Editor: Clean, transform, and prepare the data for analysis.
-- Visualizations:
+- - Visualizations:
 - Stacked Bar Charts: To compare sales across different categories or time periods.
 - Stacked Column Charts: To analyze the contribution of different product categories or customer segments to total sales.
 - Line Charts: To visualize sales trends over time.
 - Donut Chart: To represent the distribution of sales by product category.
-- Interactivity: 
+- - Interactivity: 
 - Card: To display key metrics (e.g., total sales, average order value).
 - Slicers: To filter data based on different criteria (e.g., product category, customer segment, region).
 - Filtering: To drill down into specific data segments.
