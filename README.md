@@ -4,10 +4,10 @@ To create an interactive Power BI dashboard to track and analyze online sales da
 ## Data Sources & Queries:
 - Data Source: Orders and Details tables containing information about sales transactions, customer details, product information, and more.
 - Key Queries:
-- Total sales, revenue, and profit
-- Sales trends by product category, customer segment, and region
-- Customer behavior analysis (e.g., purchase frequency, average order value)
-- Product performance analysis (e.g., top-selling products, product profitability)
+- 1. Total sales, revenue, and profit
+  2. Sales trends by product category, customer segment, and region
+  3. Customer behavior analysis (e.g., purchase frequency, average order value)
+  4. Product performance analysis (e.g., top-selling products, product profitability)
 ## Power BI Tools:
 - Get Data: Import the Orders and Details tables into Power BI.
 - Power Query Editor: Clean, transform, and prepare the data for analysis.
