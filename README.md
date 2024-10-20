@@ -17,10 +17,10 @@ To create an interactive Power BI dashboard to track and analyze online sales da
   3. Line Charts: To visualize sales trends over time.
   4.  Donut Chart: To represent the distribution of sales by product category.
 - Interactivity: 
-- - Card: To display key metrics (e.g., total sales, average order value).
-- - Slicers: To filter data based on different criteria (e.g., product category, customer segment, region).
-- - Filtering: To drill down into specific data segments.
-- - Format Pane: To customize the appearance of visualizations.
+1. Card: To display key metrics (e.g., total sales, average order value).
+2. Slicers: To filter data based on different criteria (e.g., product category, customer segment, region).
+3. Filtering: To drill down into specific data segments.
+4. Format Pane: To customize the appearance of visualizations.
 ## Data Set Used:
 Orders and Details tables containing information about sales transactions, customer details, product information, and more.
 ## Questions (KPIs):
