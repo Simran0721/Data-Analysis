@@ -23,7 +23,7 @@ To create an interactive Power BI dashboard to track and analyze online sales da
 4. Format Pane: To customize the appearance of visualizations.
 ## Data Set Used:
 Orders and Details tables containing information about sales transactions, customer details, product information, and more.
-- <a herf="https://github.com/Simran0721/Data-Analysis/blob/main/Details.csv")Details.csv</a>
+- <a herf="https://github.com/Simran0721/Data-Analysis/blob/main/Details.csv")Details</a>
 ## Questions (KPIs):
 - Top-selling product categories: Clothing, electronics, furniture.
 - Sales variation: Sales vary by region and season, with Q3 and Q4 being peak.
